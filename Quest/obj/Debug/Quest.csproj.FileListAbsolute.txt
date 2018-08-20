@@ -1,0 +1,13 @@
+D:\Škola\Programování\VisualStudio\Quest\Quest\bin\Debug\Quest.exe.config
+D:\Škola\Programování\VisualStudio\Quest\Quest\bin\Debug\Quest.exe
+D:\Škola\Programování\VisualStudio\Quest\Quest\bin\Debug\Quest.pdb
+D:\Škola\Programování\VisualStudio\Quest\Quest\bin\Debug\GameEngine.dll
+D:\Škola\Programování\VisualStudio\Quest\Quest\bin\Debug\GameEngine.pdb
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.Quest.resources
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.Cache
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.csproj.CoreCompileInputs.cache
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.exe
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.pdb
+D:\Škola\Programování\VisualStudio\Quest\Quest\obj\Debug\Quest.Postava.resources
